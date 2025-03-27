@@ -1,13 +1,13 @@
 package class_15_object;
 
-class Parent
+class Parent_Class
 {
-	Parent()
+	Parent_Class()
 	{
 		System.out.println("Parent Constructor");
 	}
 }
-public class ObjectClass15 extends Parent
+public class ObjectClass15 extends Parent_Class
 {
 	ObjectClass15()
 	{super();//both the constructor is getting executed because of the super calling statements with this super keyword

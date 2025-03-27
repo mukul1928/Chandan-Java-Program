@@ -1,9 +1,9 @@
 package assignments;
 
-public class Find_Space {
-	public static void main(String[] args) {
+public class Find_Space_In_String {
 
-		String name = "Mukul Pandey";
+	public static void main(String[] args) {
+		String name = "Chandan Pandey";
 
 		char c1[] = name.toCharArray();
 
@@ -11,7 +11,7 @@ public class Find_Space {
 			boolean answer = Character.isSpaceChar(c1[i]);
 
 			if (answer == true) {
-				System.out.println("The given string has a space");
+				System.out.println("The given String has a space in it");
 			}
 		}
 
