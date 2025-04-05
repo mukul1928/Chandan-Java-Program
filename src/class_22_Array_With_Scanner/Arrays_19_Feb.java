@@ -1,4 +1,4 @@
-package class_22;
+package class_22_Array_With_Scanner;
 
 import java.util.Arrays;
 

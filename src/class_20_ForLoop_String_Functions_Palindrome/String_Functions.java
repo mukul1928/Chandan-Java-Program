@@ -1,4 +1,4 @@
-package class_20;
+package class_20_ForLoop_String_Functions_Palindrome;
 
 public class String_Functions 
 {

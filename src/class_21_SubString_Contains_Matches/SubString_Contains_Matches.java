@@ -1,13 +1,13 @@
-package class_21;
+package class_21_SubString_Contains_Matches;
 
-public class Class_21 
+public class SubString_Contains_Matches 
 {
 public static void main(String[] args) 
      {
 	String a="orange";
 	String answer1= a.substring(1);
 	System.out.println(answer1);
-	
+
 	    String answer2= a.substring(1,3);
 	    System.out.println(answer2);
 	    

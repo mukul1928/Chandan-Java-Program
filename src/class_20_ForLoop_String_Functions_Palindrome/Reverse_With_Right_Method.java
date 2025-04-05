@@ -1,4 +1,4 @@
-package class_20;
+package class_20_ForLoop_String_Functions_Palindrome;
 
 public class Reverse_With_Right_Method 
 {
@@ -15,7 +15,7 @@ public class Reverse_With_Right_Method
 	System.out.println(reverse);
 	
 	boolean a1=name.equals(reverse);
-	System.out.println(a1);//false
+	System.out.println(a1);//It will return false because the given string is not a Palindrome
 	
 	if(a1==true)
 	{

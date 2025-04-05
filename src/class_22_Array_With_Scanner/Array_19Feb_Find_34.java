@@ -1,4 +1,4 @@
-package class_22;
+package class_22_Array_With_Scanner;
 
 public class Array_19Feb_Find_34 
 {
