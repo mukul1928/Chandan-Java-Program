@@ -18,7 +18,7 @@ public class Class_14_Inheritances_SLI extends Parent_Class {
 	public static void main(String[] args) {
 		add(47, 42);
 		sub(78, 24);
-		multiplication(23*22);
+		multiplication(34, 65);
 
 	}
 
