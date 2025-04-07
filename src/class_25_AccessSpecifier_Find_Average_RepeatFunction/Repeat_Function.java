@@ -1,4 +1,4 @@
-package class_25;
+package class_25_AccessSpecifier_Find_Average_RepeatFunction;
 
 public class Repeat_Function 
 {

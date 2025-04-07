@@ -14,23 +14,30 @@ interface Parent2 {
 
 public class Multiple_Level_Inheritance implements Parent1, Parent2 {
 
+	public static void main(String[] args) {
+
+		Multiple_Level_Inheritance m1 = new Multiple_Level_Inheritance();
+		m1.auth();
+		m1.authentication();
+		m1.username();
+		m1.password();
+
+	}
+
 	public void username() {
-
+		System.out.println("mukulpandey89_Username");
 	}
 
-	@Override
 	public void password() {
-
+		System.out.println("chandankikhushboo_143_password");
 	}
 
-	@Override
 	public void auth() {
-
+		System.out.println("authority_given in auth");
 	}
 
-	@Override
 	public void authentication() {
-
+		System.out.println("authentication required by user is given by the admin");
 	}
 
 }
