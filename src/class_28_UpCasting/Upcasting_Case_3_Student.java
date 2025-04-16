@@ -1,4 +1,4 @@
-package class_28;
+package class_28_UpCasting;
 class Teacher2
 {
 	void add()

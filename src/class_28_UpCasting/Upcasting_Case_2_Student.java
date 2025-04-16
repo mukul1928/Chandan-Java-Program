@@ -1,4 +1,4 @@
-package class_28;
+package class_28_UpCasting;
 class Teacher
 {
 	void substract()
