@@ -1,4 +1,4 @@
-package class_32_SwitchCase;
+package class_32_SwitchCase_MathClass_MathRandom;
 
 public class Thread_Sleep_Program {
 

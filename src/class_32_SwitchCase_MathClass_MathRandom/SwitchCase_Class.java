@@ -1,4 +1,4 @@
-package class_32_SwitchCase;
+package class_32_SwitchCase_MathClass_MathRandom;
 
 public class SwitchCase_Class {
 	public static void main(String[] args) {
