@@ -3,8 +3,9 @@ package class_32_SwitchCase;
 public class SwitchCase_Class {
 	public static void main(String[] args) {
 
-		switch (10) //if I have written 10 here and my cases are lesser than 10 for that reason we can have
-					//default(keyword) statement 
+		switch (10) // if I have written 10 here and my cases are lesser than 10 for that reason we
+					// can have
+					// default(keyword) statement and this will execute then
 		{
 		case 1:
 			System.out.println("Your logic 1 will be here");
