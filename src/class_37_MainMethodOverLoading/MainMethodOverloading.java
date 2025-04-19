@@ -3,8 +3,8 @@ package class_37_MainMethodOverLoading;
 public class MainMethodOverloading {
 
 	public static void main(String[] args) {
-			main();
-			main(12,43);
+		main();
+		main(12, 43);
 	}
 
 	public static void main() {
