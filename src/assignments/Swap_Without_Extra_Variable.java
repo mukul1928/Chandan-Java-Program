@@ -9,7 +9,7 @@ public class Swap_Without_Extra_Variable
 	a=a+b;
 	b=a-b;
 	a=a-b;
-	System.out.println(a);
-	System.out.println(b);
+	System.out.println("The value of a "+a);
+	System.out.println("The value of b "+b);
 }
 }

@@ -1,4 +1,4 @@
-package inheritance_program;
+package class_15_Inheritance_Program;
 
 public class Class_15_Multi_Level_ParentClass 
 {

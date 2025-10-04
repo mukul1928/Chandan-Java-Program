@@ -1,4 +1,4 @@
-package inheritance_program;
+package class_15_Inheritance_Program;
 
 public class Class15_SingleLevel_Inheritance_City_Class extends Class15_SingleLevel_States 
 {
