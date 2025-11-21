@@ -1,13 +1,13 @@
 package class_18_Interface_Class;
 
-interface One
+interface Onee
 
 {
 	void add(); //abstract method without writing abstract in front of it
 	void substract(); //abstract method without writing abstract in front of it
 }
 
-public class Interface_Class implements One
+public class Interface_Class implements Onee
 {
 	void areaofrectangle()
 	{

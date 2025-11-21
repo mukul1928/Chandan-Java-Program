@@ -1,0 +1,21 @@
+package class_20_ForLoop_String_Functions_Palindrome;
+
+public class Palindrome_Practice {
+	public static void main(String[] args) {
+		String name = "MukuM";
+		String reverse = "";
+		for (int i = name.length() - 1; i >= 0; i--) {
+			char answer = name.charAt(i);
+			reverse = reverse + answer;
+		}
+		System.out.println(reverse);
+		boolean value = name.equals(reverse);
+		System.out.println(value);
+		if (value == true) {
+			System.out.println("Palindrome");
+		} else {
+			System.out.println("not a Palindrome !");
+		}
+	}
+
+}

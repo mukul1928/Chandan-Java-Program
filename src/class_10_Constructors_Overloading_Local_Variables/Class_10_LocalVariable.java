@@ -11,7 +11,11 @@ public class Class_10_LocalVariable
     static void substract()
     {
     	double pi;//declaration
+
     	System.out.println(pi);
+
+    //	System.out.println(pi);
+
     }
     void add()
     {
@@ -19,8 +23,12 @@ public class Class_10_LocalVariable
     }
 	public static void main(String[] args) 
 	{
+
 		System.out.println(number);
 		int a=100 //local variable
+		//System.out.println(number);
+		//int a=100 //local variable
+
 		System.out.println(rollno);
 	}
 
